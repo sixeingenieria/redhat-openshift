@@ -2,7 +2,7 @@
 
 This site is under construction
 
-Have a look to our [Red Hat OpenShift Bootcamp](https://sixe.es/sistemas/formacion/curso-red-hat-openshift-4-operaciones-y-administracion) it is available in Spanish, English and French.
+You can have a look to our [Red Hat OpenShift Bootcamp](https://sixe.es/sistemas/formacion/curso-red-hat-openshift-4-operaciones-y-administracion) It is also available , English and French. Just click on the flag to switch to your language.
 
 ### Other Red Hat related trainings
 
