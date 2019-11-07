@@ -1,40 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Sixe, Red Hat Openshift's lovers
 
-You can use the [editor on GitHub](https://github.com/sixeingenieria/redhat-openshift/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This site is under construction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Have a look to our [Red Hat OpenShift Bootcamp](https://sixe.es/sistemas/formacion/curso-red-hat-openshift-4-operaciones-y-administracion) it is available in Spanish, English and French.
 
-Have a look to our [Red Hat OpenShift Bootcamp](https://sixe.es/sistemas/formacion/curso-red-hat-openshift-4-operaciones-y-administracion)
+### Other Red Hat related trainings
 
-### Markdown
+[Red Hat Certified Administrator workshop](https://sixe.es/sistemas/formacion/linux/curso-certificacion-examen-red-hat-suse-administrator-rhcsa-lfcs-sca)
+[Red Hat Certified Engineer workshop](https://sixe.es/sistemas/formacion/linux/curso-certificacion-examen-red-hat-suse-certified-engineer-rhce-lfce-sce)
+[What's new on Red Hat v8.1](https://sixe.es/sistemas/formacion/linux/curso-de-novedades-en-red-hat-8-para-administradores-de-linux)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sixeingenieria/redhat-openshift/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
